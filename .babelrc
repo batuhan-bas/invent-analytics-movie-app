@@ -1,0 +1,13 @@
+{
+    "presets": [
+      "@babel/preset-env",
+      [
+        "@babel/preset-react",
+        {
+          "runtime": "automatic" // Modern JSX Transform'u etkinleştirir
+        }
+      ],
+      "@babel/preset-typescript"
+    ]
+  }
+  
