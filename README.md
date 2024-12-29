@@ -56,7 +56,7 @@ An interactive Single Page Application (SPA) to browse and view details of movie
 1. **Run unit and integration tests using Jest:**
    ```bash
    pnpm test
-## Technologies
+## Structure
 
 - **src/components:**  Reusable components (e.g., filters, pagination, movie details).
 - **src/store:**  Redux Toolkit configuration and slices.
